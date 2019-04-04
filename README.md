@@ -26,9 +26,7 @@
 
 ## 下载
 
-![下载](https://img.shields.io/badge/download-%E4%B8%8B%E8%BD%BD-blue.svg)
-
-<a href='https://github.com/C1erman/Header-in-Hexo.js/blob/master/Header-in-Hexo.js?raw=true'>下载或复制JavaScript代码</a>
+[![图片描述](https://img.shields.io/badge/download-%E4%B8%8B%E8%BD%BD-blue.svg)](https://github.com/C1erman/Header-in-Hexo.js/releases)
 
 ## 错误
 
